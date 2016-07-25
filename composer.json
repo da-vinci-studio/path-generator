@@ -1,0 +1,8 @@
+{
+    "name": "da-vinci-studio/path-generator",
+    "description": "PathGenerator Component",
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "~2.4"
+    }
+}
