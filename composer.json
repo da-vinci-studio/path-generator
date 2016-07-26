@@ -4,5 +4,10 @@
     "require": {},
     "require-dev": {
         "phpspec/phpspec": "~2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dvs\\PathGenerator\\": "src"
+        }
     }
 }
